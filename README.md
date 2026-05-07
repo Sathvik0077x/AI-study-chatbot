@@ -1,7 +1,8 @@
 # AI Chatbot With Memory
 
-A command-line AI chatbot built using Python and Groq's LLM API.
+A command-line AI chatbot built using Python and Groq's LLM API. 
 The chatbot maintains conversation memory by storing and resending the full message history with every API request.
+It gets you things in a single line answer so it wont make things complex
 
 ---
 
